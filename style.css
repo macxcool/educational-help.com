@@ -1,0 +1,70 @@
+
+BODY  {background-color : #BEB295; font-family : Arial, Verdana, sans-serif; font-size: 80%; margin: 0;}
+Table {font-family : Verdana, Arial, sans-serif; font-size : 100%; border-collapse: collapse; padding: 0; margin: 0;}
+P, LI, UL {font-family : Verdana, Arial, sans-serif; font-size : 100%;}
+TD {font-family : Verdana, Arial, sans-serif; font-size : 100%; margin: 0; padding: 0;}
+
+
+A:LINK    {color: #BC5525; font-weight: bold; text-decoration: none;}
+A:VISITED {color: #BC5525; font-weight: bold; text-decoration : none;}
+A:HOVER   {color: #998A6B; font-weight: bold; background: #536B77; text-decoration : none;}
+A:ACTIVE  {color: #BC5525; font-weight: bold; text-decoration : none;}
+
+
+H1     {color: #BC5525; font: bold 22px Georgia, Georgia, serif; text-align: left;}
+H2     {color: #998A6B; font: normal 20px Tahoma, Arial, sans-serif; text-align: left; letter-spacing: 2px;}
+H3, H4, H5, H6 {color: #BC5525; font-size: 13px; font-weight: bold;}
+
+
+.headertop {
+width: 100%;
+height: 100px;
+color: #000000;
+background-color: #BEB295;
+font: bold 24px Georgia, Georgia, serif; 
+letter-spacing: 2px;
+text-align: center;
+}
+
+.headerbottom {
+width: 100%;
+height: 30px;
+color: #FFFFFF;
+background-color: #BC5525;
+font-weight: bold
+letter-spacing: 2px;
+text-align: center;
+}
+
+
+.sidebar {
+background-color: #FFFFFF;
+color: #000000;
+width: 200px;
+font-family: Verdana, Arial, sans-serif;
+text-align: center;
+vertical-align: top;
+padding: 0 0 20px 0;
+}
+
+
+.sidebar dl {background: transparent; padding: 0 10px 0 0; margin: 2px 0; line-height: 12px; font-size: 100%; width: 180px}
+.sidebar dt {color: #000000; font-weight: bold; letter-spacing: 3px; border-bottom: 1px solid #000000; padding: 10px 0 4px 0;}
+.sidebar dd {margin: 3px; padding: 3px 0;}
+.sidebar dd a:link, .sidebar dd a:visited, .sidebar dd a:active {display: block; color: #FFFFFF; font-weight: normal; text-decoration: none; background-color: #BC5525; border: 1px solid #000000; padding: 3px;}
+.sidebar dd a:hover {color: #FFFFFF; font-weight: normal; text-decoration: none; background-color: #998A6B; border: 1px solid #000000;}
+
+
+.content {
+width: 100%;
+background-color: #FFFFFF;
+color: #000000;
+font-family : Verdana, Arial, sans-serif;
+text-align: justify;
+vertical-align: top;
+line-height: 18px;
+padding: 15px 20px 15px 20px;
+}
+
+.spacer {width: 20px;}
+
