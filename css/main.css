@@ -1,0 +1,47 @@
+body {
+    background-color: #FAF9F6;
+    font-family: Verdana,Arial,sans-serif;
+    max-width: 90%;
+    margin: 0 auto;
+}
+div {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+p {
+    font-size: 16px;
+    line-height: 20px;
+}
+a {
+    color: #193872;
+}
+h1,h2,h3,h4,h5,h6 {
+    font-family: Tahoma,Arial,sans-serif;
+    color: #193872;
+}
+#wrapper {
+    display: flex;
+    flex-direction: row;
+}
+#sidebar {
+    flex: 1;
+    margin-right: 30px;
+}
+#logo {
+    align-content: center;
+}
+#mainnav {
+    align-content: center;
+}
+main {
+    flex: 3;
+    margin-left: 30px;
+}
+footer {
+    display: flex;
+    flex-direction: row;
+}
+.threecol {
+    flex: 1;
+    min-width: 30%;
+}
