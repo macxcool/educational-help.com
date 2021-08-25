@@ -36,7 +36,7 @@ h1,h2,h3,h4,h5,h6 {
 #logo {
     text-align: center;
 }
-#mainnav {
+#slider {
     position: sticky;
     position: -webkit-sticky;
     top: 30px;
@@ -70,7 +70,6 @@ footer {
     min-width: 33%;
 }
 #mainnav li {
-    display: inline-block;
     text-align: center;
 }
 #mainnav a {
