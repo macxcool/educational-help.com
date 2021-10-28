@@ -11,32 +11,32 @@ title = 'Educational Help Centers - Tutoring Services'
 
     [[menu.main]]
     name = "Programs"
-    URL = "services"
+    URL = "/services"
     weight = 10
 
     [[menu.main]]
     name = "History"
-    URL = "about"
+    URL = "/about"
     weight = 15
 
     [[menu.main]]
     name = "Locations"
-    URL = "contact"
+    URL = "/contact"
     weight = 20
 
     [[menu.main]]
     name = "Resources"
-    URL = "books"
+    URL = "/books"
     weight = 25
 
     [[menu.main]]
     name = "Fees"
-    URL = "pricing"
+    URL = "/pricing"
     weight = 30
 
     [[menu.main]]
     name = "Registration"
-    URL = "registration"
+    URL = "/registration"
     weight = 35
 
 [params]
