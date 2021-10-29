@@ -1,0 +1,20 @@
+.content p {
+    display: flex;
+    flex-direction: row;
+}
+.content h2, .content h3 {
+    text-align: center;
+}
+.content a {
+    margin-left: 30px;
+}
+
+@media screen and (max-width: 950px) {
+    .content p {
+        flex-direction: column;
+    }
+    .content img {
+        margin-top: 20px;
+        margin-left: 0;
+    }
+}

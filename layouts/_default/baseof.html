@@ -9,7 +9,12 @@
           <h1>Educational Help Centres Inc.</h1>
           <h2>Providing tutoring services in the greater London area since 1994</h2>
       </div>
+      <div class="content">
        {{ block "main" . }}{{ end }}
+      </div>
+      {{ if eq .Title "Student Registration Form" }}
+        {{ partial "regform.html" . }}
+      {{ end }}
       </main>
     </div>
     {{ partial "footer.html" . }}
