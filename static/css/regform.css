@@ -1,0 +1,27 @@
+input {
+    padding: 2px;
+    border-color: #193872;
+    border-radius: 10px;
+    color: #193872
+}
+#invoicename
+{
+    width: 535px;
+}
+#teachernames {
+    width: 535px;
+}
+#submitbutton {
+    padding: 8px 40px;
+    background-color: #193872;
+    color: #eff8ff;
+    text-transform: uppercase;
+    font-weight: bold;
+    border: none;
+    border-radius: 15px;
+    transition: ease-in-out 0.15s;
+}
+#submitbutton:hover, #submitbutton:active {
+    background-color: #649FCC;
+    box-shadow: 5px 5px 5px rgb(151, 151, 151);
+}

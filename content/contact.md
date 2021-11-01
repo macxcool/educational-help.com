@@ -17,27 +17,27 @@ P.O. Box 185, Lambeth Stn.
 London, ON.
 N6P 1P9 
 
-## London North Tutoring:
+### London North Tutoring:
 Monica Robinson, B.A.
 Manager
 (519) 673-5694
 
-## London West Tutoring:
+### London West Tutoring:
 Monica Robinson, B.A.
 Manager
 (519) 471-0834
 
-## St. Thomas Tutoring:
+### St. Thomas Tutoring:
 Monica Robinson, B.A.
 Manager
 (519) 633-2373
 
-## Oxford County Tutoring
+### Oxford County Tutoring
 Melissa Eltom, B.A.
 Manager
 (226) 228-9062
 
-## Lambton/Kent Tutoring:
+### Lambton/Kent Tutoring:
 Jo-Ann Janess, B.A., B.Ed.,
 Manager
 (519) 869-2492
