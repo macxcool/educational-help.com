@@ -25,3 +25,6 @@ input {
     background-color: #649FCC;
     box-shadow: 5px 5px 5px rgb(151, 151, 151);
 }
+br {
+    margin-top: 5px;
+}
