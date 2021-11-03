@@ -15,7 +15,7 @@ title = 'Educational Help Centers - Tutoring Services'
     weight = 10
 
     [[menu.main]]
-    name = "History"
+    name = "About Us"
     URL = "/about"
     weight = 15
 
