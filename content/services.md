@@ -13,7 +13,7 @@ Choosing the correct University, College or Technology Program has never been mo
 
 ### Stephen Prendergast, B.A., B.Ed., M.Ed.
 
-Stephen has just completed his 31st year of teaching exclusively in special education settings both in schools and residential treatment facilities. His teaching experience includes students with intellectual and learning disabilities as well as behavioural and emotional disorders. Stephen has 21 years experience administering the Woodcock-Johnson tests of Academic Achievement.
+Stephen completed 31 years of teaching exclusively in special education settings both in schools and residential treatment facilities. His teaching experience includes students with intellectual and learning disabilities as well as behavioural and emotional disorders. Stephen also had 21 years experience administering the Woodcock-Johnson tests of Academic Achievement.
 
 ## E.S.L./F.S.L./S.S.L.
 
@@ -31,5 +31,5 @@ We offer Beginner, Intermediate and Advanced Conversational English/French/Spani
 - Contract Commitments: No Term Contract (start and stop as desired, design own schedule)
 - Special Ed. Qualifications: Sp. Ed. Specialists Available
 - Languages E.S.L., F.S.L., S.S.L
-- Dyslexia Correction Certified "Dyslexia Correction Program" Available 
+- Dyslexia Correction Program Available 
 - Testing: Woodcock-Johnson IV $500.00
