@@ -4,10 +4,10 @@ date: 2021-10-28T13:37:54-04:00
 draft: false
 ---
 
-### London Proper and Close Surrounding Area:
 #### (effective Sept. 1 2019)
+### London Proper and Close Surrounding Area:
 
-$33/hour Elementary, $35/hour Secondary, $37/hour College or University - in-office (Lambeth Learning Centre, London North Tutoring, London West Tutoring)
+$33/hour Elementary, $35/hour Secondary, $37/hour College or University - online
 
 $34/hour Elementary, $36/hour Secondary, $37/hour College or University - in-home
 
@@ -20,7 +20,7 @@ $33/hour College and University
 ## Invoicing Information / Payment Policies
 Invoices are mailed/emailed monthly and indicate tutoring hours and dates for the previous month ending on the date of the invoice.
 
- You must have your Mastercard or Visa on file with us. You may choose to pay with cash, cheque, credit card or internet/telephone banking. If your account is not at a zero balance at the time your student's hours are inputted for the month, the balance owing will be charged to your credit card.
+ You must have your Mastercard or Visa on file with us, but you may choose to pay with cash, cheque, credit card or internet/telephone banking. If your account is not at a zero balance at the time your student's hours are inputted for the month, the balance owing will be charged to your credit card.
 
 If you choose to pay cash, cheque or internet/telephone banking, you must pay at each lesson.
 
