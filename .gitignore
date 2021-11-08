@@ -2,3 +2,4 @@
 .netlify
 # Public folder
 public
+resources/_gen
