@@ -4,10 +4,10 @@ date: 2021-10-28T13:37:54-04:00
 draft: false
 ---
 
-#### (effective Sept. 1 2019)
+#### (effective Sept. 1, 2019)
 ### London Proper and Close Surrounding Area:
 
-$33/hour Elementary, $35/hour Secondary, $37/hour College or University - online
+$33/hour Elementary, $35/hour Secondary, $37/hour College or University - in office or online
 
 $34/hour Elementary, $36/hour Secondary, $37/hour College or University - in-home
 
@@ -15,7 +15,7 @@ $34/hour Elementary, $36/hour Secondary, $37/hour College or University - in-hom
 
 $30/hour Elementary and Secondary - any location
 
-$33/hour College and University
+$33/hour College and University - any location
 
 ## Invoicing Information / Payment Policies
 Invoices are mailed/emailed monthly and indicate tutoring hours and dates for the previous month ending on the date of the invoice.

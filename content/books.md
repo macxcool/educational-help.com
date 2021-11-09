@@ -19,7 +19,7 @@ draft: false
 ## The Spark: A Mother's Story of Nurturing Genius
 ### Kristine Barnett
 
-"The extraordinary memoir of a mother's love, commitment and nurturing, which allowed her son, originally diagnosed with severe autism, to flourish into a universally recognized genius--and how any parent can help their child find their spark."
+"The extraordinary memoir of a mother's love, commitment and nurturing, which allowed her son, originally diagnosed with severe autism, to flourish into a universally recognized genius, and how any parent can help their child find their spark."
 [![The Spark: A Mother's Story of Nurturing Genius](../images/TheSparkCover.jpg "The Spark: A Mother's Story of Nurturing Genius")](https://www.bookfinder.com/search/?ac=sl&st=sl&ref=bf_s2_a9_t1_75&qi=reFvvIv2oR3VapfwepjMRYpdiek_1497963026_1:222:370&bq=author%3Dkristine%2520barnett%26title%3Dspark%2520a%2520mother%2527s%2520story%2520of%2520nurturing%2520genius)
 
 ## Navigating Autism: 9 Mindsets For Helping Kids on the Spectrum
