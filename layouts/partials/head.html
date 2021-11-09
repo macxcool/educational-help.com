@@ -8,7 +8,7 @@
     {{ if eq .Title "Books & Additional Resources" }}
         <link rel="stylesheet" type="text/css" href="../css/books.css">
     {{ end }}
-    {{ if eq .Title "Student Registration Form" }}
+    {{ if eq .Params.Form true }}
         <link rel="stylesheet" type="text/css" href="../css/regform.css">
     {{ end }}
 </head>

@@ -15,6 +15,9 @@
       {{ if eq .Title "Student Registration Form" }}
         {{ partial "regform.html" . }}
       {{ end }}
+      {{ if eq .Title "Employment Opportunities" }}
+        {{ partial "employmentform.html" . }}
+      {{ end }}
       </main>
     </div>
     {{ partial "footer.html" . }}
