@@ -39,5 +39,10 @@ title = 'Educational Help Centers - Tutoring Services'
     URL = "/registration"
     weight = 35
 
+    [[menu.main]]
+    name = "Employment"
+    URL = "/employment"
+    weight = 40
+
 [params]
     
