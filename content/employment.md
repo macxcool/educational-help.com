@@ -5,4 +5,4 @@ draft: false
 form: true
 ---
 
-Educational Help Centres is always looking for caring, certified teachers to tutor students in all grades and subjects on a one-to-one basis. We offer flexible hours and a competitive hourly rate. Please submit your resume and a copy of your police check below if you are interested in joining our team. Thank you.
+Educational Help Centres is always looking for caring, certified teachers to tutor students in all grades and subjects on a one-to-one basis. We offer flexible hours and a competitive hourly rate. Please email your resume and a copy of your police check to office@educational-help.com if you are interested in joining our team. Thank you.
