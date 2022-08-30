@@ -23,8 +23,8 @@ We offer Beginner, Intermediate and Advanced Conversational English/French/Spani
 
 - Instruction Method: One-to-One
 - Cost of Instruction: See Fee Schedule
-- Counselling and Testing: 2-3 hr session $300
-- Counselling: 1 hr session $100
+- Counselling and Testing: 2-3 hr session $350
+- Counselling: 1 hr session $120
 - Instruction Site: Choice of: In-Office, In-Home, On-Line
 - Test Preparation: S.A.T. /A.C.T. (U.S.), G.E.D.
 - Teacher Qualifications: Certified Teachers
