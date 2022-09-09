@@ -4,7 +4,7 @@ date: 2021-10-28T13:37:54-04:00
 draft: false
 ---
 
-#### (effective Sept. 1, 2019)
+#### (effective Sept. 1, 2022)
 ### London Proper and Close Surrounding Area:
 
 Elementary: $42.00/hr in-office/in-teacher’s home | $40.00 online/in-library | $47.00 in-home
