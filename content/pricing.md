@@ -4,20 +4,20 @@ date: 2021-10-28T13:37:54-04:00
 draft: false
 ---
 
-#### (effective Sept. 1, 2019)
+#### (effective Nov. 1, 2022)
 ### London Proper and Close Surrounding Area:
 
-Elementary: $42.00/hr in-office/in-teacher’s home | $40.00 online/in-library | $47.00 in-home
+Elementary: $39.00/hr in-office/in-teacher’s home | $38.00 online/in-library | $45.00 in-home
 
-Secondary: $43.00/hr in-office/in-teacher’s home | $41.00 online/in-library | $48.00 in-home
+Secondary: $40.00/hr in-office/in-teacher’s home | $39.00 online/in-library | $46.00 in-home
 
-Univ./Coll.: $44.00/hr in-office/in-teacher’s home | $42.00 online/in-library | $49.00 in-home
+Univ./Coll.: $41.00/hr in-office/in-teacher’s home | $40.00 online/in-library | $47.00 in-home
 
 ### Elgin, Oxford and Lambton/Kent Region:
 
-Elementary/Secondary: $37/hour at any location
+Elementary/Secondary: $35/hour at any location
 
-Univ./Coll.: $44.00/hr in-office/in-teacher’s home | $42.00 online/in-library | $49.00 in-home
+Univ./Coll.: $41.00/hr in-office/in-teacher’s home | $40.00 online/in-library | $47.00 in-home
 
 ## Invoicing Information / Payment Policies
 Invoices are mailed/emailed monthly and indicate tutoring hours and dates for the previous month ending on the date of the invoice.
