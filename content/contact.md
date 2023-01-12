@@ -6,7 +6,7 @@ draft: false
 
 ## Head Office:
 ### The Lambeth Learning Centre
-Unit 6, 2386 Main St.
+4346 Col. Talbot Rd.
 Lambeth, ON.
 
 (519) 652-0252 or 1-866-61-TUTOR
@@ -20,17 +20,14 @@ N6P 1P9
 ### London North Tutoring:
 Monica Robinson, B.A.
 Manager
-(519) 673-5694
 
 ### London West Tutoring:
 Monica Robinson, B.A.
 Manager
-(519) 471-0834
 
 ### St. Thomas Tutoring:
 Monica Robinson, B.A.
 Manager
-(519) 633-2373
 
 ### Oxford County Tutoring
 Melissa Eltom, B.A.
