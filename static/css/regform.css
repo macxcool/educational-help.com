@@ -28,3 +28,26 @@ input {
 br {
     margin-top: 5px;
 }
+.accordion {
+    padding: 8px 40px;
+    background-color: #193872;
+    color: #eff8ff;
+    text-transform: uppercase;
+    font-weight: bold;
+    border: none;
+    border-radius: 15px;
+    transition: ease-in-out 0.15s;
+}
+.accordion:hover {
+    background-color: #649FCC;
+    box-shadow: 5px 5px 5px rgb(151, 151, 151);
+}
+.active {
+    display: none;
+    overflow: hidden;
+}
+.panel {
+    max-height: 0;
+    overflow: hidden;
+    transition: 1s ease-out;
+  }
