@@ -1,62 +1,66 @@
-<form action="" autocomplete="on" name="StudentRegForm" data-netlify="true">
-    <h3>Basic Information</h3>
-    <div class="formrow">
-        <input type="text" id="studentname" name="StudentName" placeholder="Student's full name" required>
-        <input type="number" name="Age" id="age" placeholder="Age" required>
-        <input type="text" name="Grade" id="grade" placeholder="Grade" required>
-    </div>
-    <input type="text" name="InvoiceName" id="invoicename" placeholder="Invoicing name with titles (e.g. Mrs, Mr, Dr, etc.)" required>
-    <div class="formrow">
-        <input type="text" name="Address" id="address" placeholder="Address" required>
-        <input type="text" name="AddressCity" id="addresscity" placeholder="City" required>
-        <input type="text" name="AddressCode" id="addresscode" placeholder="Postal code" required>
-    </div>
-    <div class="formrow">
-        <input type="tel" name="HomePhone" id="homephone" placeholder="Home phone" required>
-        <input type="tel" name="WorkPhone" id="workphone" placeholder="Work phone">
-        <input type="tel" name="MobilePhone" id="mobilephone" placeholder="Mobile phone">
-        <input type="email" name="Email" id="email" placeholder="Email address" required>
-    </div>
-    <h3>Confidential Information (If Applicable)</h3>
-    <input type="checkbox" name="ComPermission" id="compermission">
-    <label for="compermission">Permission to communicate with daytime teachers</label>
-    <div class="formrow">
-        <p>I learned about Educational Help Centres Inc. through:</p>
-        <input type="radio" name="Publicity" id="wordofmouth">
-        <label for="wordofmouth">Word Of Mouth</label>
-        <input type="radio" name="Publicity" id="internet">
-        <label for="internet">Online</label>
-        <input type="radio" name="Publicity" id="school">
-        <label for="school">At School</label>
-        <input type="radio" name="Publicity" id="publicityother">
-        <label for="publicityother">Other</label>
-        <input type="text" name="Publicity" id="publicityothertext"     placeholder="Explain">
-    </div>
-    <div class="formrow">
-        <h3>Payment Options</h3>
-        <p>Visa or Mastercard <strong>must</strong> be on file even if you choose another payment option.</p>
-        <input type="checkbox" name="PaymentOptions" id="creditcard">
-        <label for="creditcard">Visa/Mastercard</label>
-        <input type="checkbox" name="PaymentOptions" id="mobilebanking">
-        <label for="mobilebanking">Telephone/Online Banking</label>
-        <input type="checkbox" name="PaymentOptions" id="chequemail">
-        <label for="chequemail">Cash/Cheque</label>
-    </div>
-    <h3>Contractual Agreement</h3>
-    <input type="checkbox" name="TermsAndConditions" id="termsandconditions" required>
-    <label for="termsandconditions">I agree that the information I have provided above is factual, and I will comply with the terms and conditions of Educational Help Centres Inc.</label>
-    <h3>Assigned Tutor (If already decided)</h3>
-    <input type="text" name="TeacherNames" id="teachernames" placeholder="Tutor name">
-    <div class="formrow" id="consent">
-        <h3>Consent</h3>
-        <p>Dear Parent or Guardian <br>
-            In order to protect both parties from any allegations of impropriety, we require your completion of the Consent form below.</p>
-        <label for="studentname2">I am the parent/guardian of</label>
-        <input type="text" name="StudentName2" id="studentname2" placeholder="Student" required> 
-        <br>
-        <input type="checkbox" name="ConsentForm" id="consentform" required>
-        <label for="consentform">I am aware that I have the right to be present during the tutoring session, and I have chosen not to be in attendance. Educational Help Centres Inc. has my consent to tutor my child above named without my presence. <br>
-        <strong>Note:</strong> In-home tutoring will not take place without an adult present. All teachers are police checked.</label> 
-    </div>
-    <input type="submit" value="Submit" id="submitbutton">
+<button class="accordion" id="accordion">I have called the office</button>
+<div class="panel">
+    <p>Please fill out and submit this form to register for tutoring.</p>
+    <form action="" autocomplete="on" name="StudentRegForm" data-netlify="true">
+        <h3>Basic Information</h3>
+        <div class="formrow">
+            <input type="text" id="studentname" name="StudentName" placeholder="Student's full name" required>
+            <input type="number" name="Age" id="age" placeholder="Age" required>
+            <input type="text" name="Grade" id="grade" placeholder="Grade" required>
+        </div>
+        <input type="text" name="InvoiceName" id="invoicename" placeholder="Invoicing name with titles (e.g. Mrs, Mr, Dr, etc.)" required>
+        <div class="formrow">
+            <input type="text" name="Address" id="address" placeholder="Address" required>
+            <input type="text" name="AddressCity" id="addresscity" placeholder="City" required>
+            <input type="text" name="AddressCode" id="addresscode" placeholder="Postal code" required>
+        </div>
+        <div class="formrow">
+            <input type="tel" name="HomePhone" id="homephone" placeholder="Home phone" required>
+            <input type="tel" name="WorkPhone" id="workphone" placeholder="Work phone">
+            <input type="tel" name="MobilePhone" id="mobilephone" placeholder="Mobile phone">
+            <input type="email" name="Email" id="email" placeholder="Email address" required>
+        </div>
+        <h3>Confidential Information (If Applicable)</h3>
+        <input type="checkbox" name="ComPermission" id="compermission">
+        <label for="compermission">Permission to communicate with daytime teachers</label>
+        <div class="formrow">
+            <p>I learned about Educational Help Centres Inc. through:</p>
+            <input type="radio" name="Publicity" id="wordofmouth">
+            <label for="wordofmouth">Word Of Mouth</label>
+            <input type="radio" name="Publicity" id="internet">
+            <label for="internet">Online</label>
+            <input type="radio" name="Publicity" id="school">
+            <label for="school">At School</label>
+            <input type="radio" name="Publicity" id="publicityother">
+            <label for="publicityother">Other</label>
+            <input type="text" name="Publicity" id="publicityothertext"     placeholder="Explain">
+        </div>
+        <div class="formrow">
+            <h3>Payment Options</h3>
+            <p>Visa or Mastercard <strong>must</strong> be on file even if you choose another payment option.</p>
+            <input type="checkbox" name="PaymentOptions" id="creditcard">
+            <label for="creditcard">Visa/Mastercard</label>
+            <input type="checkbox" name="PaymentOptions" id="mobilebanking">
+            <label for="mobilebanking">Telephone/Online Banking</label>
+            <input type="checkbox" name="PaymentOptions" id="chequemail">
+            <label for="chequemail">Cash/Cheque</label>
+        </div>
+        <h3>Contractual Agreement</h3>
+        <input type="checkbox" name="TermsAndConditions" id="termsandconditions" required>
+        <label for="termsandconditions">I agree that the information I have provided above is factual, and I will comply with the terms and conditions of Educational Help Centres Inc.</label>
+        <h3>Assigned Tutor (If already decided)</h3>
+        <input type="text" name="TeacherNames" id="teachernames" placeholder="Tutor name">
+        <div class="formrow" id="consent">
+            <h3>Consent</h3>
+            <p>Dear Parent or Guardian <br>
+                In order to protect both parties from any allegations of impropriety, we require your completion of the Consent form below.</p>
+            <label for="studentname2">I am the parent/guardian of</label>
+            <input type="text" name="StudentName2" id="studentname2" placeholder="Student" required> 
+            <br>
+            <input type="checkbox" name="ConsentForm" id="consentform" required>
+            <label for="consentform">I am aware that I have the right to be present during the tutoring session, and I have chosen not to be in attendance. Educational Help Centres Inc. has my consent to tutor my child above named without my presence. <br>
+            <strong>Note:</strong> In-home tutoring will not take place without an adult present. All teachers are police checked.</label> 
+        </div>
+        <input type="submit" value="Submit" id="submitbutton">
     </form>
+</div>
