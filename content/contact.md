@@ -29,11 +29,6 @@ Manager
 Monica Robinson, B.A.
 Manager
 
-### Oxford County Tutoring
-Melissa Eltom, B.A.
-Manager
-(226) 228-9062
-
 ### Lambton/Kent Tutoring:
 Jo-Ann Janess, B.A., B.Ed.,
 Manager

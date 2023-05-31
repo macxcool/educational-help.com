@@ -13,7 +13,7 @@ Secondary: $40.00/hr in-office/in-teacher’s home | $39.00 online/in-library | 
 
 Univ./Coll.: $41.00/hr in-office/in-teacher’s home | $40.00 online/in-library | $47.00 in-home
 
-### Elgin, Oxford and Lambton/Kent Region:
+### Elgin and Lambton/Kent Region:
 
 Elementary/Secondary: $37/hour at any location
 
