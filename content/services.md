@@ -31,5 +31,4 @@ We offer Beginner, Intermediate and Advanced Conversational English/French/Spani
 - Contract Commitments: No Term Contract (start and stop as desired, design own schedule)
 - Special Ed. Qualifications: Sp. Ed. Specialists Available
 - Languages E.S.L., F.S.L., S.S.L
-- Dyslexia Correction Program Available 
 - Testing: Woodcock-Johnson IV $500.00
