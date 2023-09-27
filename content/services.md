@@ -7,13 +7,13 @@ draft: false
 
 ### Colette McNally B.A., B.Ed.
 
-Choosing the correct University, College or Technology Program has never been more important to students. We offer the following in a private, professional setting: Career Planning, Career Counselling, Course Selection Assistance, Interest and Personality Testing and Evaluation, Guidance and Educational Counselling for Canadian Universities, Colleges and U.S.A. Schools. Our educational counsellor, Colette McNally, has years of experience in a secondary school teaching and guidance setting.
+Choosing the correct University, College or Technology Program has never been more important to students. We offer the following in a private, professional setting: Career Planning, Career Counselling, Course Selection Assistance, Interest and Personality Testing and Evaluation, Guidance and Educational Counselling for Canadian Universities, Colleges and U.S.A. Schools. Our educational counsellor, Colette McNally, has years of experience in a secondary school teaching and guidance setting in London, Ontario.
 
 ## Testing - Woodcock-Johnson IV
 
 ### Stephen Prendergast, B.A., B.Ed., M.Ed.
 
-Stephen completed 31 years of teaching exclusively in special education settings both in schools and residential treatment facilities. His teaching experience includes students with intellectual and learning disabilities as well as behavioural and emotional disorders. Stephen also had 21 years experience administering the Woodcock-Johnson tests of Academic Achievement.
+Stephen completed 31 years of teaching exclusively in special education settings both in schools and residential treatment facilities. His teaching experience includes students with intellectual and learning disabilities as well as behavioural and emotional disorders. Stephen also had 21 years experience in London, Ontario administering the Woodcock-Johnson tests of Academic Achievement.
 
 ## E.S.L./F.S.L./S.S.L.
 
