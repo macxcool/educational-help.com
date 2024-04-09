@@ -30,4 +30,6 @@ Overdue accounts (30+ days) are charged 2% interest. Overdue accounts (45+ days)
 
 **NOTE: 12 HOUR ADVANCED NOTICE FOR CANCELLATION OR TIME CHANGE MUST BE GIVEN TO YOUR TEACHER. IF NOTICE IS NOT RECEIVED, YOU WILL BE CHARGED FOR THAT SESSION!**
 
+We strongly encourage consistent attendance for the best results!
+
 We are endeavouring to provide a professional service as economically as possible. We request your cooperation and thank you for your patronage.
