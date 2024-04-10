@@ -28,7 +28,7 @@ If you choose to pay cash, cheque or internet/telephone banking, you must pay at
 
 Overdue accounts (30+ days) are charged 2% interest. Overdue accounts (45+ days), services are terminated. Overdue accounts (70 days), legal action is initiated.
 
-**NOTE: 12 HOUR ADVANCED NOTICE FOR CANCELLATION OR TIME CHANGE MUST BE GIVEN TO YOUR TEACHER. IF NOTICE IS NOT RECEIVED, YOU WILL BE CHARGED FOR THAT SESSION!**
+**NOTE: 12 HOUR ADVANCED NOTICE FOR CANCELLATION OR TIME CHANGE MUST BE GIVEN TO YOUR TEACHER. IF THE REQUIRED NOTICE IS NOT RECEIVED, YOU WILL BE CHARGED FOR THE SESSION!**
 
 We strongly encourage consistent attendance for the best results!
 
