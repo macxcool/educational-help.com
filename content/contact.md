@@ -32,4 +32,4 @@ Manager
 ### Lambton/Kent Tutoring:
 Jo-Ann Janess, B.A., B.Ed.,
 Manager
-(519) 869-2492
+(226) 886-3324
