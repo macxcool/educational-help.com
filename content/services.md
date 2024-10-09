@@ -20,7 +20,7 @@ We offer Beginner, Intermediate and Advanced Conversational English/French/Spani
 - Counselling and Testing: 2-3 hr session $350
 - Counselling: 1 hr session $120
 - Instruction Site: Choice of: In-Office, In-Home, On-Line
-- Test Preparation: S.A.T. /A.C.T. (U.S.), G.E.D.
+- Test Preparation: S.A.T. /A.C.T. (U.S.), C.A.E.C.
 - Teacher Qualifications: Certified Teachers
 - Contract Commitments: No Term Contract (start and stop as desired, design own schedule)
 - Special Ed. Qualifications: Sp. Ed. Specialists Available
