@@ -22,9 +22,12 @@ Univ./Coll.: $41.00/hr in-office/in-teacher’s home | $40.00 online/in-library 
 ## Invoicing Information / Payment Policies
 Invoices are mailed/emailed monthly and indicate tutoring hours and dates for the previous month ending on the date of the invoice.
 
- You must have your Mastercard or Visa on file with us, but you may choose to pay with cash, cheque, credit card or internet/telephone banking. If your account is not at a zero balance at the time your student's hours are inputted for the month, the balance owing will be charged to your credit card.
+**Payment methods:**
+- Cash
+- Cheque
+- E-Transfer
 
-If you choose to pay cash, cheque or internet/telephone banking, you must pay at each lesson.
+We no longer take debit or credit cards as the fees are too expensive.
 
 Overdue accounts (30+ days) are charged 2% interest. Overdue accounts (45+ days), services are terminated. Overdue accounts (70 days), legal action is initiated.
 
