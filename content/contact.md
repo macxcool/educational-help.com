@@ -9,8 +9,7 @@ draft: false
 4346 Col. Talbot Rd.
 Lambeth, ON.
 
-(519) 652-0252 or 1-866-61-TUTOR
-Fax: (519) 203-0124
+(519) 652-0252
 
 Mailing Address:
 P.O. Box 185, Lambeth Stn.
