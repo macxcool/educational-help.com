@@ -29,6 +29,8 @@ Invoices are mailed/emailed monthly and indicate tutoring hours and dates for th
 
 We no longer take debit or credit cards as the fees are too expensive.
 
+Please send your payment on the day of each session.
+
 Overdue accounts (30+ days) are charged 2% interest. Overdue accounts (45+ days), services are terminated. Overdue accounts (70 days), legal action is initiated.
 
 **NOTE: 12 HOUR ADVANCED NOTICE FOR CANCELLATION OR TIME CHANGE MUST BE GIVEN TO YOUR TEACHER. IF THE REQUIRED NOTICE IS NOT RECEIVED, YOU WILL BE CHARGED FOR THE SESSION!**
