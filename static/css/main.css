@@ -78,12 +78,18 @@ footer {
     background-color: #193872;
     color: #eff8ff;
 }
-footer h1, footer h2, footer h3 {
+footer h1, footer h2, footer h3, footer a {
     color: #eff8ff;
 }
 footer img {
     margin-top: 20px;
     max-width: 100%;
+}
+.twocol {
+    flex: 1;
+    min-width: 50%;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 .threecol {
     flex: 1;
