@@ -2,9 +2,9 @@
     <div class="twocol">
         <h2>Lambeth Learning:</h2>
         <h3>Phone:</h3>
-        (519) 652-0252</p></div>
+        <p>(519) 652-0252</p>
         <h3>Email:</h3>
-        <p>office@educational-help.com</p>
+        <p>office@educational-help.com</p></div>
     <div class="twocol">
         <h3>Mailing Address:</h3>
         <p>P.O. Box 185, Lambeth Stn.<br>
@@ -13,4 +13,7 @@
         <h3>Social:</h3>
         <a href="https://www.facebook.com/profile.php?id=61567160402624">Facebook Page</a>
     </div>
+    {{ if eq .Params.Form true }}
+        <script type="text/javascript" src="../js/accordion.js"></script>
+    {{ end }}
 </footer>
